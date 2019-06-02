@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactFood2Fork/static/css/main.1cf93ebd.chunk.css",
+    "main.js": "/ReactFood2Fork/static/js/main.fdac8648.chunk.js",
+    "main.js.map": "/ReactFood2Fork/static/js/main.fdac8648.chunk.js.map",
+    "runtime~main.js": "/ReactFood2Fork/static/js/runtime~main.27d164cd.js",
+    "runtime~main.js.map": "/ReactFood2Fork/static/js/runtime~main.27d164cd.js.map",
+    "static/js/2.61ebbd48.chunk.js": "/ReactFood2Fork/static/js/2.61ebbd48.chunk.js",
+    "static/js/2.61ebbd48.chunk.js.map": "/ReactFood2Fork/static/js/2.61ebbd48.chunk.js.map",
+    "index.html": "/ReactFood2Fork/index.html",
+    "precache-manifest.0f318fd11ce79d1228afd6820fd1573d.js": "/ReactFood2Fork/precache-manifest.0f318fd11ce79d1228afd6820fd1573d.js",
+    "service-worker.js": "/ReactFood2Fork/service-worker.js",
+    "static/css/main.1cf93ebd.chunk.css.map": "/ReactFood2Fork/static/css/main.1cf93ebd.chunk.css.map"
+  }
+}
