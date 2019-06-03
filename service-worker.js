@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ReactFood2Fork/precache-manifest.0f318fd11ce79d1228afd6820fd1573d.js"
+  "/ReactFood2Fork/precache-manifest.1bf356ec039a6bccfeaf8ab93cc28c3e.js"
 );
 
 self.addEventListener('message', (event) => {
